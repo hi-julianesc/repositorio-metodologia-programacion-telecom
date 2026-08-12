@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🏛️ Universidad Autónoma de Entre Ríos
-## 💻 Metodología de la Programación
+## 💻 Metodologías de Programación
 
 **1er Año** • **Ingeniería de Telecomunicaciones** • **Ciclo Lectivo 2026** • **2do Cuatrimestre**
 
