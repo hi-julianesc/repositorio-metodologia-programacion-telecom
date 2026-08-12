@@ -17,7 +17,7 @@
 
 ## 📌 Sobre la Materia
 
-Este repositorio reúne las actividades, talleres y trabajos prácticos de la cátedra **Metodología de la Programación**. La asignatura busca consolidar las bases de la programación estructurada y avanzar hacia el diseño de soluciones utilizando **Tipos de Datos Abstractos (TDA)** y **Programación Orientada a Objetos (POO)**.
+Este repositorio reúne las actividades, talleres y trabajos prácticos de la cátedra **Metodologías de Programación**. La asignatura busca consolidar las bases de la programación estructurada y avanzar hacia el diseño de soluciones utilizando **Tipos de Datos Abstractos (TDA)** y **Programación Orientada a Objetos (POO), etc...**.
 
 ---
 
