@@ -47,12 +47,13 @@ Este repositorio reúne las actividades, talleres y trabajos prácticos de la c�
 2. **Ejecutar un trabajo o script:
    ```bash
    python taller1.py
-
+```tree
 .
-├── menu.py          # Prácticas iniciales de control de flujo y variables
+├── hi.py            # hola mundo
+├── borrador.py      # Prácticas iniciales de control de flujo y variables
 ├── taller1.py       # Estructura básica de menú interactivo
 ├── taller2.py       # Menú modularizado con funciones
-
+```
 
 ```text?code_stdout&code_event_index=1
 README.md actualizado con formato compatible para GitHub.
